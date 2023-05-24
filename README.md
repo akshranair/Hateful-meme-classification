@@ -17,6 +17,7 @@ TSNE PLOT for Unimodal Task of Text Classification -
 
 
 Multimodal Architecture
+
 <img width="665" alt="Screenshot 2023-05-24 at 8 39 54 PM" src="https://github.com/akshranair/Hateful-meme-classification/assets/68681614/e3e4109e-894f-4d52-b0e5-a0eb44937e9e">
 
 TSNE Plot for MUltimodal Task of Text Classification-
