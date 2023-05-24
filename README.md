@@ -6,3 +6,20 @@ Dataset used - https://hatefulmemeschallenge.com/#download
 
 
 <img width="684" alt="Screenshot 2023-05-24 at 8 35 46 PM" src="https://github.com/akshranair/Hateful-meme-classification/assets/68681614/ec366ae0-90af-45f6-af0e-1c72fcf9d1f0">
+
+TSNE Plot for Unimodal Task of Image Classification - 
+
+<img width="500" alt="Screenshot 2023-05-24 at 8 38 04 PM" src="https://github.com/akshranair/Hateful-meme-classification/assets/68681614/7586fd0e-7f87-438c-993a-f9ef5fc6aef0">
+
+TSNE PLOT for Unimodal Task of Text Classification -
+
+<img width="768" alt="Screenshot 2023-05-24 at 8 38 54 PM" src="https://github.com/akshranair/Hateful-meme-classification/assets/68681614/8da07579-e28d-46bd-b31f-e157a1b8ae69">
+
+
+Multimodal Architecture
+<img width="665" alt="Screenshot 2023-05-24 at 8 39 54 PM" src="https://github.com/akshranair/Hateful-meme-classification/assets/68681614/e3e4109e-894f-4d52-b0e5-a0eb44937e9e">
+
+TSNE Plot for MUltimodal Task of Text Classification-
+
+<img width="768" alt="Screenshot 2023-05-24 at 8 39 33 PM" src="https://github.com/akshranair/Hateful-meme-classification/assets/68681614/df74915c-fbcc-41c8-8342-131ccc2d6ec0">
+
