@@ -5,4 +5,4 @@ The deep neural network is trained on the fused textual and visual features to c
 Dataset used - https://hatefulmemeschallenge.com/#download
 
 
-<img width="1145" alt="Screenshot 2023-05-23 at 11 07 48 AM" src="https://github.com/akshranair/Hateful-meme-classification/assets/68681614/5078d782-4490-4929-9bf0-a1c74c72008b">
+<img width="684" alt="Screenshot 2023-05-24 at 8 35 46 PM" src="https://github.com/akshranair/Hateful-meme-classification/assets/68681614/ec366ae0-90af-45f6-af0e-1c72fcf9d1f0">
